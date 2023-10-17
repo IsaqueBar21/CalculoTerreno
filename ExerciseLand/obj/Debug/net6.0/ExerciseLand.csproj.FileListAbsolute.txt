@@ -1,0 +1,15 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\bin\Debug\net6.0\ExerciseLand.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\bin\Debug\net6.0\ExerciseLand.deps.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\bin\Debug\net6.0\ExerciseLand.runtimeconfig.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\bin\Debug\net6.0\ExerciseLand.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\bin\Debug\net6.0\ExerciseLand.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\obj\Debug\net6.0\ExerciseLand.csproj.AssemblyReference.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\obj\Debug\net6.0\ExerciseLand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\obj\Debug\net6.0\ExerciseLand.AssemblyInfoInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\obj\Debug\net6.0\ExerciseLand.AssemblyInfo.cs
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\obj\Debug\net6.0\ExerciseLand.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\obj\Debug\net6.0\ExerciseLand.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\obj\Debug\net6.0\refint\ExerciseLand.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\obj\Debug\net6.0\ExerciseLand.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\obj\Debug\net6.0\ExerciseLand.genruntimeconfig.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\ExerciseLand\ExerciseLand\obj\Debug\net6.0\ref\ExerciseLand.dll
